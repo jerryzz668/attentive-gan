@@ -1,0 +1,8 @@
+opencv-python==4.5.3.56
+tensorflow==1.15.4
+glog==0.3.1
+numpy==1.18.5
+scikit-image==0.14.1
+easydict==1.9
+matplotlib==3.4.3
+
